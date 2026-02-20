@@ -1,5 +1,4 @@
-# Window 11 dotfiles with Linux-like config
-
+<h1 align="center">Window 11 dotfiles with Linux-like config</h1>
 This is the dotfiles of myself, being obsessed with Linux set up: Wayland, shell, vim, bars but not having the ability of using Linux. (I don't have wifi driver compatible with any Linux distro 🥲🥲). You can refered this as a Linux wayland simulator.
 
 ## Window environment and tools dependencies
@@ -123,4 +122,4 @@ My Neovim is just using [LazyVim](https://www.lazyvim.org/) default config. So y
 ![Komorebi split workspace](img/1.png)
 ![Komorebi multiple workspace](img/2.png)
 ![Gotop command](img/3.png)
-![Desktop](img/3.png)
+![Desktop](img/4.png)
