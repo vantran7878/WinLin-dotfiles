@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "mssql.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "90B2AB21-7DB2-49E8-8C8E-CC0AD510443E"
+        }
+    ],
+    "explorer.fileNesting.patterns": {
+        "*.ts": "${capture}.js",
+        "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+        "*.jsx": "${capture}.js",
+        "*.tsx": "${capture}.ts",
+        "tsconfig.json": "tsconfig.*.json",
+        "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, bun.lock",
+        "*.sqlite": "${capture}.${extname}-*",
+        "*.db": "${capture}.${extname}-*",
+        "*.sqlite3": "${capture}.${extname}-*",
+        "*.db3": "${capture}.${extname}-*",
+        "*.sdb": "${capture}.${extname}-*",
+        "*.s3db": "${capture}.${extname}-*"
+    },
+    "python.defaultInterpreterPath": "c:\\Users\\ASUS\\scoop\\apps\\python\\3.13.5\\python.exe",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "editor.tabSize": 2,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "cpp": false,
+        "ino": false,
+        "html": false
+    },
+    "editor.lineNumbers": "relative",
+    "workbench.iconTheme": "material-icon-theme",
+    "sqldeveloper.datagrid.fontFamily": "Consolas, 'Courier New', monospace",
+    "sqldeveloper.telemetry.enabled": true
+}

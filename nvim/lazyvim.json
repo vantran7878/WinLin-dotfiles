@@ -1,0 +1,20 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.ai.supermaven",
+    "lazyvim.plugins.extras.ai.tabnine",
+    "lazyvim.plugins.extras.coding.luasnip",
+    "lazyvim.plugins.extras.coding.mini-snippets",
+    "lazyvim.plugins.extras.coding.nvim-cmp",
+    "lazyvim.plugins.extras.lang.clangd",
+    "lazyvim.plugins.extras.lang.clojure",
+    "lazyvim.plugins.extras.lang.git",
+    "lazyvim.plugins.extras.lang.julia",
+    "lazyvim.plugins.extras.lang.python",
+    "lazyvim.plugins.extras.lang.tailwind"
+  ],
+  "install_version": 8,
+  "news": {
+    "NEWS.md": "11866"
+  },
+  "version": 8
+}
